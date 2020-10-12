@@ -24,4 +24,4 @@ Sinta-se livre para enviar um pull request afim de me ajudar com melhorias no si
 
 ## Licença
 
-Esse projeto está sob as licenças MIT - leia o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Esse projeto está sob as licenças MIT - leia o arquivo [LICENSE](LICENSE) para mais detalhes.
