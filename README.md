@@ -11,7 +11,7 @@ Você só precisa clonar o repositório para sua máquina local e abrir o arquiv
 Abra seu bash e digite
 
 ```
-git clone https://github.com/ggonpereira/Projeto-tempos-de-pandemia.git
+git clone https://github.com/ggonpereira/projeto-tempos-de-pandemia.git
 ```
 
 ## Contribuindo
